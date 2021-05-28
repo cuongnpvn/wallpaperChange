@@ -1,0 +1,13 @@
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\bin\Debug\netcoreapp3.1\wallpaperChange.exe
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\bin\Debug\netcoreapp3.1\wallpaperChange.deps.json
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\bin\Debug\netcoreapp3.1\wallpaperChange.runtimeconfig.json
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\bin\Debug\netcoreapp3.1\wallpaperChange.runtimeconfig.dev.json
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\bin\Debug\netcoreapp3.1\wallpaperChange.dll
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\bin\Debug\netcoreapp3.1\wallpaperChange.pdb
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\obj\Debug\netcoreapp3.1\wallpaperChange.csprojAssemblyReference.cache
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\obj\Debug\netcoreapp3.1\wallpaperChange.AssemblyInfoInputs.cache
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\obj\Debug\netcoreapp3.1\wallpaperChange.AssemblyInfo.cs
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\obj\Debug\netcoreapp3.1\wallpaperChange.csproj.CoreCompileInputs.cache
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\obj\Debug\netcoreapp3.1\wallpaperChange.dll
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\obj\Debug\netcoreapp3.1\wallpaperChange.pdb
+C:\Users\qt\source\repos\wallpaperChange\wallpaperChange\obj\Debug\netcoreapp3.1\wallpaperChange.genruntimeconfig.cache
